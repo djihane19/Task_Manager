@@ -22,3 +22,28 @@ cd <NOM_DU_DOSSIER>
 ```bash
 python3 tasks.py
 ```
+## Utilisation (exemple)
+Au lancement, un menu s’affiche. Exemple de scénario :
+
+- Ajouter une tâche (ex : “Réviser le cours de Python”)
+- Voir les tâches
+- Marquer une tâche comme terminée
+- Quitter
+Les données sont enregistrées dans tasks.json.
+
+Fichier de sauvegarde (tasks.json)
+Format attendu :
+```bash
+[
+  { "title": "Lire l'article sur les graphes", "done": false },
+  { "title": "Préparer le plan de la thèse (intro)", "done": true }
+]
+```
+## Qualité de code (Flake8)
+Vérifier qu’il n’y a aucune erreur :
+```bash
+flake8 tasks.py
+```
+
+## Capture d’écran
+![App running](assets/screenshot.png)

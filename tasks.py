@@ -122,7 +122,7 @@ def menu() -> None:
     tasks = load_tasks()
 
     while True:
-        print("=== TASK MANAGER (Bakugo Mode) ===")
+        print("=== TASK MANAGER ===")
         print("1) Ajouter une tâche")
         print("2) Voir les tâches")
         print("3) Marquer comme terminée")
