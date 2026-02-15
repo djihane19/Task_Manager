@@ -1,7 +1,7 @@
 # Task Manager CLI
 
 Mini projet : **gestion de tâches en ligne de commande** avec persistance **JSON** (fichier `tasks.json`).  
-Checklist (extrait) : **3+ commits Git**, **Flake8 sans erreurs**, **README avec instructions**, **capture d’écran de l’app en exécution** [Source](https://www.genspark.ai/api/files/s/zjlFzwIy)
+Checklist (extrait) : **3+ commits Git**, **Flake8 sans erreurs**, **README avec instructions**, **capture d’écran de l’app en exécution** 
 
 ## Fonctionnalités
 - Ajouter une nouvelle tâche
