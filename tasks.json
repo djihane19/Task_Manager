@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Lire l'article sur les graphes",
+    "done": true
+  },
+  {
+    "title": "Préparer le plan de la thèse (intro)",
+    "done": true
+  },
+  {
+    "title": "Coder le mini-projet Task Manager",
+    "done": false
+  },
+  {
+    "title": "preparer la presentation",
+    "done": false
+  }
+]
